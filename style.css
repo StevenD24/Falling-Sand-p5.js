@@ -1,7 +1,11 @@
 html, body {
+  height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #141414;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
 }
 
 canvas {

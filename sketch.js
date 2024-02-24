@@ -51,7 +51,7 @@ function draw() {
     let mouseRow = floor(mouseY / w);
 
     // Randomly add an area of sand particles
-    let matrix = 5;
+    let matrix = 8;
     let extent = floor(matrix / 2);
     for (let i = -extent; i <= extent; i++) {
       for (let j = -extent; j <= extent; j++) {
