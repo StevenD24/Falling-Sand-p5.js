@@ -1,4 +1,4 @@
-# Pixel Sand Simulator
+# Pixel Sand Cascade Simulator
 
 ## About
 FallingSandSimulatorJS is a captivating and interactive particle simulation project built using p5.js. It simulates the dynamics of falling sand, allowing users to create and observe mesmerizing patterns of sand particles with varying hues. This simulation is not only a demonstration of the beauty of complexity emerging from simple rules but also serves as an educational tool for understanding basic physics concepts such as gravity and particle movement.
