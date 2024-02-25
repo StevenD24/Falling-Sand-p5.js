@@ -8,3 +8,6 @@ FallingSandSimulatorJS is a captivating and interactive particle simulation proj
 - **Colorful Particles:** Watch as the hues of sand particles change dynamically, creating a visually stunning effect.
 - **Physics Simulation:** The simulation includes a simple physics engine that mimics gravity, allowing particles to fall and pile up naturally.
 - **Customizable Parameters:** Easily adjust parameters such as particle size, gravity strength, and color change rate to experiment with different simulation behaviors.
+
+  ## Try it out here
+  [Sand Pixel Cascade Simulator](https://stevend24.github.io/Falling-Sand-p5.js/) 
